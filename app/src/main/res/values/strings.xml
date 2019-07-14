@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Sweets Bucket</string>
+
+
+    <!--Titles-->
+    <string name="login_title">Login</string>
+    <string name="signup_title">Sign up</string>
+
+    <!--Welcome messages-->
+    <string name="splash_welcome_txt">Easiest way to\nfind the best Sweets Shopes</string>
+    <string name="login_welcome_txt">Hello there !\nWelcome Back</string>
+    <string name="signup_welcome_txt">Hello there !\nWelcome to you</string>
+
+
+    <!--Button labels-->
+    <string name="login_btn_label">Login</string>
+    <string name="signup_btn_label">Signup</string>
+
+    <string name="login_label">" Login"</string>
+    <string name="signup_label">" Signup"</string>
+
+    <string name="login_fb_btn_label">"Login with Facebook"</string>
+    <string name="signup_fb_btn_label">"Signup with Facebook"</string>
+
+    <string name="get_started_btn_label">Get Started</string>
+
+    <!--Edit Text hints-->
+    <string name="email_address_hint">Email Address</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="ConfPassword">Conform Password</string>
+    <string name="password_hint">Password</string>
+
+
+    <!--Misc texts-->
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account">Don\’t have an account?</string>
+    <string name="have_account">Have an account?</string>
+    <string name="divider_or">OR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">SignOut</string>
+
+    <string name="menu_home">Sweets</string>
+    <string name="menu_gallery">Shopes</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <integer name="animation_duration_medium">3000</integer>
+
+</resources>
